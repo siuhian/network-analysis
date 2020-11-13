@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python3 A0183086Y_code/profile.py
+python3 A0183086Y_code/classify.py $1 $2
